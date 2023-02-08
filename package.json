@@ -1,0 +1,18 @@
+{
+  "name": "quadric-challenge",
+  "private": true,
+  "description": "A simple implementation challenge using a mock API.",
+  "engines": {
+    "node": ">=16",
+    "npm": ">=7"
+  },
+  "scripts": {
+    "mock-api": "node mock"
+  },
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "json-server": "^0.17.0",
+    "lodash": "^4.17.21"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,16 @@
+# system
+.DS_Store
+.directory
+
+# editor
+.idea/workspace.xml
+*~
+*.swp
+
+.node-version
+node_modules/
+
+*.log
+
+# db files
+db.json

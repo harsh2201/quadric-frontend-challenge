@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Camera proptotype",
+        "user_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Vehicle AI chip",
+        "user_id": 1
+    }
+]

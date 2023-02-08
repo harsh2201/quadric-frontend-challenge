@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "workflow_id": 1,
+        "created_at": "2022-07-12T12:23:34Z",
+        "stage": "lint",
+        "status": "success",
+        "duration_seconds": 30
+    },
+    {
+        "id": 2,
+        "workflow_id": 1,
+        "created_at": "2022-07-12T12:23:34Z",
+        "stage": "compile",
+        "status": "success",
+        "duration_seconds": 30
+    },
+    {
+        "id": 3,
+        "workflow_id": 1,
+        "created_at": "2022-07-12T12:23:34Z",
+        "stage": "execute",
+        "status": "success",
+        "duration_seconds": 45
+    },
+    {
+        "id": 4,
+        "workflow_id": 1,
+        "created_at": "2022-07-12T12:23:34Z",
+        "stage": "artifacts",
+        "status": "success",
+        "duration_seconds": 45
+    },
+    {
+        "id": 5,
+        "workflow_id": 2,
+        "created_at": "2022-07-12T12:55:15Z",
+        "stage": "lint",
+        "status": "success",
+        "duration_seconds": 30
+    },
+    {
+        "id": 6,
+        "workflow_id": 2,
+        "created_at": "2022-07-12T12:55:15Z",
+        "stage": "compile",
+        "status": "success",
+        "duration_seconds": 30
+    },
+    {
+        "id": 7,
+        "workflow_id": 2,
+        "created_at": "2022-07-12T12:55:15Z",
+        "stage": "execute",
+        "status": "success",
+        "duration_seconds": 45
+    },
+    {
+        "id": 8,
+        "workflow_id": 2,
+        "created_at": "2022-07-12T12:55:15Z",
+        "stage": "artifacts",
+        "status": "success",
+        "duration_seconds": 45
+    },
+    {
+        "id": 9,
+        "workflow_id": 3,
+        "created_at": "2022-07-13T06:07:48Z",
+        "stage": "lint",
+        "status": "success",
+        "duration_seconds": 30
+    },
+    {
+        "id": 10,
+        "workflow_id": 3,
+        "created_at": "2022-07-13T06:07:48Z",
+        "stage": "compile",
+        "status": "failed",
+        "duration_seconds": 1
+    },
+    {
+        "id": 11,
+        "workflow_id": 3,
+        "created_at": "2022-07-13T06:07:48Z",
+        "stage": "execute",
+        "status": "pending",
+        "duration_seconds": null
+    },
+    {
+        "id": 12,
+        "workflow_id": 3,
+        "created_at": "2022-07-13T06:07:48Z",
+        "stage": "artifacts",
+        "status": "pending",
+        "duration_seconds": null
+    },
+    {
+        "id": 13,
+        "workflow_id": 4,
+        "created_at": "2022-07-13T11:48:22Z",
+        "stage": "lint",
+        "status": "success",
+        "duration_seconds": 30
+    },
+    {
+        "id": 14,
+        "workflow_id": 4,
+        "created_at": "2022-07-13T11:48:22Z",
+        "stage": "compile",
+        "status": "success",
+        "duration_seconds": 30
+    },
+    {
+        "id": 15,
+        "workflow_id": 4,
+        "created_at": "2022-07-13T11:48:22Z",
+        "stage": "execute",
+        "status": "success",
+        "duration_seconds": 45
+    },
+    {
+        "id": 16,
+        "workflow_id": 4,
+        "created_at": "2022-07-13T11:48:22Z",
+        "stage": "artifacts",
+        "status": "success",
+        "duration_seconds": 45
+    },
+    {
+        "id": 17,
+        "workflow_id": 5,
+        "created_at": "2022-07-14T15:11:29Z",
+        "stage": "lint",
+        "status": "success",
+        "duration_seconds": 30
+    },
+    {
+        "id": 18,
+        "workflow_id": 5,
+        "created_at": "2022-07-14T15:11:29Z",
+        "stage": "compile",
+        "status": "success",
+        "duration_seconds": 30
+    },
+    {
+        "id": 19,
+        "workflow_id": 5,
+        "created_at": "2022-07-14T15:11:29Z",
+        "stage": "execute",
+        "status": "success",
+        "duration_seconds": 45
+    },
+    {
+        "id": 20,
+        "workflow_id": 5,
+        "created_at": "2022-07-14T15:11:29Z",
+        "stage": "artifacts",
+        "status": "success",
+        "duration_seconds": 45
+    },
+    {
+        "id": 21,
+        "workflow_id": 6,
+        "created_at": "2022-07-14T12:23:34Z",
+        "stage": "lint",
+        "status": "success",
+        "duration_seconds": 30
+    },
+    {
+        "id": 22,
+        "workflow_id": 6,
+        "created_at": "2022-07-14T12:23:34Z",
+        "stage": "compile",
+        "status": "success",
+        "duration_seconds": 30
+    },
+    {
+        "id": 23,
+        "workflow_id": 6,
+        "created_at": "2022-07-14T12:23:34Z",
+        "stage": "execute",
+        "status": "success",
+        "duration_seconds": 45
+    },
+    {
+        "id": 24,
+        "workflow_id": 6,
+        "created_at": "2022-07-14T12:23:34Z",
+        "stage": "artifacts",
+        "status": "success",
+        "duration_seconds": 45
+    }
+]
