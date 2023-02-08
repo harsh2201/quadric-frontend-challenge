@@ -1,3 +1,9 @@
+Please navigate to folder named `frontend` to run the React app. Below is the gif demo of the same.
+
+![](./screenshots/demo.gif)
+
+
+
 Quadric Web Challenge
 =====================
 
